@@ -19,6 +19,8 @@ using namespace std;
 
 int main()
 {
+    ll x;
+    cin>>x;
     cerr<<"hey\n";
 
     return 0;
